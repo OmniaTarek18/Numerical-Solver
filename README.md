@@ -49,5 +49,12 @@ For examples on how to use the solver for both linear and nonlinear systems, ref
 
 Contributions to the project are welcome. If you find any issues, feel free to open a GitHub issue. If you have improvements or new features to propose, submit a pull request.
 
+## Project Contributors
 
+The Numerical Solver project is a collaborative effort involving the following contributors:
+
+    Omnia Tarek
+    Rawan Said
+    Rana Mohammed
+    Nouran Ashraf
 Thank you for using the Numerical Solver project! If you have any questions or feedback, please reach out to us. Happy solving!
