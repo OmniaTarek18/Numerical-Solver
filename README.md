@@ -48,8 +48,6 @@ For examples on how to use the solver for both linear and nonlinear systems, ref
 ## Contributions
 
 Contributions to the project are welcome. If you find any issues, feel free to open a GitHub issue. If you have improvements or new features to propose, submit a pull request.
-## License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it according to the terms of the license.
 
 Thank you for using the Numerical Solver project! If you have any questions or feedback, please reach out to us. Happy solving!
